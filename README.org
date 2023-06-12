@@ -1,0 +1,10 @@
+* graph
+
+Simple graph data structure and algorithms
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eschulte/graph.git   |
+| commit  | 2ae3389  |
+| systems | graph |
+|---------+-------------------------------------------|
+
