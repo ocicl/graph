@@ -4,6 +4,6 @@ Simple graph data structure and algorithms
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/eschulte/graph.git |
-| commit  | 6471759                                   |
+| commit  | 53c822a                                   |
 | systems | graph                                     |
 |---------+-------------------------------------------|
